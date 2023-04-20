@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Tester.java=UTF-8
+encoding//src/main/java/repository/GoodsRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/OrderGoodsRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/OrderRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/QuestionRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/ReservationRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/ReviewRepositoryImpl.java=UTF-8
+encoding//src/main/java/repository/UserRepositoryImpl.java=UTF-8
+encoding//src/main/java/service/GoodsServiceImpl.java=UTF-8
+encoding//src/main/java/service/OrderServiceImpl.java=UTF-8
+encoding//src/main/java/service/QuestionServiceImpl.java=UTF-8
+encoding//src/main/java/service/ReservationServiceImpl.java=UTF-8
+encoding//src/main/java/service/ReviewServiceImpl.java=UTF-8
+encoding//src/main/java/service/UserRepositoryImpl.java=UTF-8
+encoding//src/main/java/service/UserServiceImpl.java=UTF-8
+encoding/<project>=UTF-8
